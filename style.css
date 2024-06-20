@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(146, 107, 255);
+}
+
+#descod{display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    padding-top: 50px;
+    font-size: 35px;
+    color:  rgb(53, 37, 66)
+}
+
+#imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 70vh;
+
+    animation-name: pulsar;
+    animation-duration:  1s;
+    animation-direction: linear ;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+}
+
+@keyframes pulsar{
+    from{
+        opacity: 0%;
+    }
+    to{
+        opacity: 50%;
+    }
+    to{
+        opacity: 100%;
+    }
+}
