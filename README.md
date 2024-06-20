@@ -2,7 +2,7 @@
 
 <p align="center">
 Atividade Descodificadas. <br/>
-<a href="https://fonsecaw.github.io/animation/
+<a href="https://fonsecaw.github.io/Animacao/
 ">Link final da Atividade.</a>
 </p>
 
