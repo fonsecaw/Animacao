@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Curso
 
-O Descodificadas é um curso gratuito para mulheres que desejam entra na área da programação.
+O Descodificadas é um curso gratuito para mulheres que desejam entrar na área da programação.
 
 - [Faça sua inscrição](https://descodificadas.com.br/inscricao/)
 
